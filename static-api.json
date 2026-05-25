@@ -1,0 +1,10 @@
+[
+    {"nama": "Bee Cat", "deskripsi": "Kucing Lebah", "imageId": "bee"},
+    {"nama": "Criminal Cat", "deskripsi": "Kucing Tahanan", "imageId": "criminal"},
+    {"nama": "Enoki Cat", "deskripsi": "Kucing Jamur", "imageId": "enoki"},
+    {"nama": "Hijabers Cat", "deskripsi": "Kucing Hijab", "imageId": "hijabers"},
+    {"nama": "Hiu Cat", "deskripsi": "Kucing Hiu", "imageId": "hiu"},
+    {"nama": "War Cat", "deskripsi": "Kucing Perang", "imageId": "perang"},
+    {"nama": "Lion Cat", "deskripsi": "Kucing Singa", "imageId": "singa"},
+    {"nama": "Soleh Cat", "deskripsi": "Kucing Soleh", "imageId": "soleh"}
+]
